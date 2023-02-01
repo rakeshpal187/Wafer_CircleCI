@@ -136,4 +136,8 @@ git add .
 git commit -m "proper message"
 git push 
 ```
+<<<<<<< HEAD
 "# Wafer_CircleCI" 
+=======
+"# Wafer_CircleCI" 
+>>>>>>> d35921c9f03aba84da1c799fe8ed2f7f51423a03
